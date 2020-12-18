@@ -20,12 +20,12 @@
   width: 20px;
   height: 20px;
   border-radius: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: white;
   font-size: 10px;
   margin-left: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .settings__setting-column:last-child {
   opacity: 0.5;
